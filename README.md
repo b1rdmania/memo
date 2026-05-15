@@ -3,7 +3,6 @@
 A Claude skill that turns a legal memo into the right shape for whoever is reading it next.
 
 **Live demo:** [memo-app-eta-tawny.vercel.app](https://memo-app-eta-tawny.vercel.app) — the skill running in a web app.
-**Source:** this repo (skill) · [b1rdmania/memo-app](https://github.com/b1rdmania/memo-app) (app)
 
 ## What it does
 
